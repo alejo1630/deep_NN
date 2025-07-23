@@ -63,12 +63,6 @@ This result confirms that the network is learning to distinguish cats from non-c
 
 ---
 
-## 📚 References
-
-- [Kaggle – Cat vs. Non-Cat Dataset](https://www.kaggle.com/datasets/sagar2522/cat-vs-non-cat)
-- [Andrew Ng – Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/))
-
----
 
 ## 💡 Conclusion
 
